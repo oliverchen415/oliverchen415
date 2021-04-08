@@ -4,6 +4,8 @@
 * 😢 Figuring out a second language to supplement Python
 * 🥼 Looking for work
 
+[Avatar generated from o1egl/govatar](https://github.com/o1egl/govatar)
+
 <!--
 **oliverchen415/oliverchen415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
