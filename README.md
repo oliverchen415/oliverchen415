@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 * 🌱 I’m currently learning Python
-* 😢 Figuring out a second language to supplement Python
-* 🥼 Found work!
-* :neckbeard:?
+* 💻 Figuring out a second language to supplement Python (Racket? Go? idk)
+* 🥼 Currently working
 
 [Avatar generated from o1egl/govatar](https://github.com/o1egl/govatar)
 
