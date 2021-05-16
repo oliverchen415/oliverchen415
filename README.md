@@ -2,7 +2,8 @@
 
 * 🌱 I’m currently learning Python
 * 😢 Figuring out a second language to supplement Python
-* 🥼 Looking for work
+* 🥼 Found work!
+* :neckbeard:?
 
 [Avatar generated from o1egl/govatar](https://github.com/o1egl/govatar)
 
